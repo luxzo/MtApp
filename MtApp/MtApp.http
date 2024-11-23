@@ -1,0 +1,6 @@
+@MtApp_HostAddress = http://localhost:5132
+
+GET {{MtApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
